@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hei, jeg er Saman
 
-<!--
-**saman091/saman091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg er en IT- og ledelsesstudent med interesse for webutvikling, programmering og analyse. Her er noen av prosjektene jeg har jobbet med:
 
-Here are some ideas to get you started:
+## 🌐 Webutvikling
+- [Cloud-Spa-React](https://github.com/Hussein-Ali-Shamarti/Cloud-Spa-React)  
+  En enkel SPA bygget med React og Firebase for autentisering og database.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [WebApplicationDevelopment](https://github.com/Hussein-Ali-Shamarti/WebApplicationDevelopment)  
+  Gruppeprosjekt hvor vi utviklet en nettside med moderne HTML/CSS og JavaScript.
+
+## ☕ Objektorientert programmering
+- [Objetorienert Analyse og Design](https://github.com/agyCoding/Objetorientert-Analyse-Design)  
+  Java-prosjekt med fokus på objektorientert modellering og designmønstre.
+
+---
+
+📫 Kontakt meg gjerne hvis du vil samarbeide eller har spørsmål!
+
