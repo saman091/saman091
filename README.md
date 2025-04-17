@@ -14,7 +14,7 @@ Jeg er en IT- og ledelsesstudent med interesse for webutvikling, programmering o
 
  ## 🐍 Databaser og Python
 
-- [Database 2-prosjekt (Oblig)]([https://github.com/saman091/Database-2-prosjekt-Oblig](https://github.com/saman091/Database-2-prosjekt-Oblig-))  
+- [Database 2-prosjekt (Oblig)](https://github.com/saman091/Database-2-prosjekt-Oblig-)  
   Applikasjon i Python og Jupyter Notebook med databasehåndtering, kjørelogikk og automatiserte tester.
 
 
