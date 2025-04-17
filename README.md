@@ -12,10 +12,11 @@ Jeg er en IT- og ledelsesstudent med interesse for webutvikling, programmering o
 - [Objetorienert Analyse og Design](https://github.com/agyCoding/Objetorientert-Analyse-Design)  
   Java-prosjekt med fokus på objektorientert modellering og designmønstre.
 
-  ## 🐍 Databaser og Python
+ ## 🐍 Databaser og Python
 
-- [Database 2-prosjekt (Oblig)](https://github.com/saman091/Oblig)  
-  Applikasjon i Python og Jupyter Notebook med databasehåndtering, kjørelogikk, og automatiserte tester.
+- [Database 2-prosjekt (Oblig)](https://github.com/saman091/Database-2-prosjekt-Oblig)  
+  Applikasjon i Python og Jupyter Notebook med databasehåndtering, kjørelogikk og automatiserte tester.
+
 
 
 ---
